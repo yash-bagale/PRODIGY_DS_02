@@ -106,7 +106,7 @@ Titanic-EDA-Project/
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone <repository-link>
+git clone https://github.com/yash-bagale/PRODIGY_DS_02.git
 cd Titanic-EDA-Project
 ```
 
